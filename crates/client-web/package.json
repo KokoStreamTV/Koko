@@ -15,7 +15,7 @@
     "validate": "run-s lint check test build"
   },
   "dependencies": {
-    "dompurify": "3.4.17",
+    "dompurify": "3.4.18",
     "foliate-js": "1.0.1",
     "libarchive.js": "2.0.2",
     "lucide": "1.70.0",
