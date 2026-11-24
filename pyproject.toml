@@ -19,7 +19,7 @@ flatpak = [
     "aiohttp==3.14.5",
     "flatpak_node_generator==0.1.0",
     "pyyaml==6.0.4",
-    "tomlkit==0.15.2",
+    "tomlkit==0.15.3",
 ]
 
 [project.urls]
